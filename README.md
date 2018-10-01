@@ -1,2 +1,2 @@
 # WebDev
-This repo was created in the SDS Labs tutorial...
+This repo was created in the SDS Labs tutorial..
